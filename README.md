@@ -38,6 +38,3 @@ STEP 5:Include Necessary parameters in each functions.
 
 
 
-
-# Result:
-  Thus, the Data Visualization using seaborn python library for the given data is implemented successfully.
